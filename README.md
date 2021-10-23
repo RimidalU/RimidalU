@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Uladzimir Stankevich
+### Hi there 👋 My name is Uladzimir Stankevich
 
 <!--
 **RimidalU/RimidalU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
