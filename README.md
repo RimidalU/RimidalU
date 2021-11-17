@@ -2,8 +2,8 @@
 
 
 
+<img align="left" alt="Codewars" src="https://www.codewars.com/users/RimidalU/badges/micro" />
 
-https://www.codewars.com/users/RimidalU/badges/micro
 <!--
 
 <a href="https://vk.com/your_profile">
