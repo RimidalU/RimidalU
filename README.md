@@ -3,7 +3,7 @@
 
 
 
-
+https://www.codewars.com/users/RimidalU/badges/micro
 <!--
 
 <a href="https://vk.com/your_profile">
