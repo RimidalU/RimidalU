@@ -8,6 +8,10 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![adonisjs](https://img.shields.io/badge/AdonisJS-2962ff?style=for-the-badge&logo=adonisjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RimidalU&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimidalU&hide=handlebars,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
