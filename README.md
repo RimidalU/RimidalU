@@ -12,12 +12,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RimidalU&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimidalU&hide=handlebars,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Codewars" src="https://www.codewars.com/users/RimidalU/badges/micro" />
-
 ### 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/uladzimir-stankevich)
 [![telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RimidalU)
+
+### 🔗 Codewars
+
+<img align="left" alt="Codewars" src="https://www.codewars.com/users/RimidalU/badges/micro" />
+
 <!--
 
 <a href="https://vk.com/your_profile">
