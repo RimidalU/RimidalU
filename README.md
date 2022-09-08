@@ -20,10 +20,8 @@
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/uladzimir-stankevich)
 [![telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RimidalU)
+[![codewars](https://www.codewars.com/users/RimidalU/badges/micro)](https://www.codewars.com/users/RimidalU)
 
-### 🔗 Codewars
-
-<img align="left" alt="Codewars" src="https://www.codewars.com/users/RimidalU/badges/micro" />
 
 <!--
 
