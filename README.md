@@ -13,8 +13,10 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RimidalU&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimidalU&hide=handlebars,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimidalU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimidalU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimidalU&theme=default)
 
 ### 🔗 Links
 
