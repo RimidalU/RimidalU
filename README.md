@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimidalU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=default&utcOffset=3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimidalU&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimidalU&theme=default)
 
