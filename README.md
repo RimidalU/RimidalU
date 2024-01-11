@@ -30,8 +30,6 @@
 [![wakatime](https://wakatime.com/badge/user/7b192b2b-1a7e-4a45-b617-cae8f431c267.svg)](https://wakatime.com/@7b192b2b-1a7e-4a45-b617-cae8f431c267)
 
 
-
-
 <!--
 
 <a href="https://vk.com/your_profile">
