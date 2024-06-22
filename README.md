@@ -17,10 +17,11 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimidalU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=default&utcOffset=3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimidalU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimidalU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimidalU&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=nord_bright&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimidalU&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimidalU&theme=nord_bright&exclude={C++)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rimidalu&theme=nord_bright)
 
 
 ### 🔗 Links
