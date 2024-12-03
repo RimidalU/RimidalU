@@ -23,6 +23,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimidalU&theme=nord_bright&exclude={C++)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rimidalu&theme=nord_bright)
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RimidalU)
 
 ### 🔗 Links
 
