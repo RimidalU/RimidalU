@@ -1,7 +1,7 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Uladzimir Stankevich
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Uladzimir Stankevich
 ![](https://komarev.com/ghpvc/?username=RimidalU)
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,6 +17,8 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+## 📊 GitHub Stats:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimidalU&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimidalU&theme=nord_bright&utcOffset=3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimidalU&theme=nord_bright)
@@ -27,7 +29,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RimidalU&margin-w=4)
 
-### 🔗 Links
+## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/uladzimir-stankevich/)
 [![telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RimidalU)  
