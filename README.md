@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RimidalU&margin-w=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=RimidalU&margin-w=4)
 
 ### 🔗 Links
 
